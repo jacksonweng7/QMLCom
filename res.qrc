@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/flatUI/font">
+        <file>fonts/lato/lato-black.eot</file>
+        <file>fonts/lato/lato-black.svg</file>
+        <file>fonts/lato/lato-black.ttf</file>
+        <file>fonts/lato/lato-black.woff</file>
+        <file>fonts/lato/lato-bold.eot</file>
+        <file>fonts/lato/lato-bold.svg</file>
+        <file>fonts/lato/lato-bold.ttf</file>
+        <file>fonts/lato/lato-bold.woff</file>
+        <file>fonts/lato/lato-bolditalic.eot</file>
+        <file>fonts/lato/lato-bolditalic.svg</file>
+        <file>fonts/lato/lato-bolditalic.ttf</file>
+        <file>fonts/lato/lato-bolditalic.woff</file>
+        <file>fonts/lato/lato-italic.eot</file>
+        <file>fonts/lato/lato-italic.svg</file>
+        <file>fonts/lato/lato-italic.ttf</file>
+        <file>fonts/lato/lato-italic.woff</file>
+        <file>fonts/lato/lato-light.eot</file>
+        <file>fonts/lato/lato-light.svg</file>
+        <file>fonts/lato/lato-light.ttf</file>
+        <file>fonts/lato/lato-light.woff</file>
+        <file>fonts/lato/lato-regular.eot</file>
+        <file>fonts/lato/lato-regular.svg</file>
+        <file>fonts/lato/lato-regular.ttf</file>
+        <file>fonts/lato/lato-regular.woff</file>
+    </qresource>
+    <qresource prefix="/flatUI/img">
+        <file>images/setting_1.png</file>
+        <file>images/setting_2.png</file>
+    </qresource>
+</RCC>
